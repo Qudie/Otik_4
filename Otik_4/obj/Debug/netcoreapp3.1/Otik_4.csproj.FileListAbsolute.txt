@@ -1,0 +1,16 @@
+C:\Users\Alla\source\repos\Otik_4\Otik_4\bin\Debug\netcoreapp3.1\Otik_4.exe
+C:\Users\Alla\source\repos\Otik_4\Otik_4\bin\Debug\netcoreapp3.1\Otik_4.deps.json
+C:\Users\Alla\source\repos\Otik_4\Otik_4\bin\Debug\netcoreapp3.1\Otik_4.runtimeconfig.json
+C:\Users\Alla\source\repos\Otik_4\Otik_4\bin\Debug\netcoreapp3.1\Otik_4.runtimeconfig.dev.json
+C:\Users\Alla\source\repos\Otik_4\Otik_4\bin\Debug\netcoreapp3.1\Otik_4.dll
+C:\Users\Alla\source\repos\Otik_4\Otik_4\bin\Debug\netcoreapp3.1\Otik_4.pdb
+C:\Users\Alla\source\repos\Otik_4\Otik_4\bin\Debug\netcoreapp3.1\Interop.Accessibility.dll
+C:\Users\Alla\source\repos\Otik_4\Otik_4\obj\Debug\netcoreapp3.1\Otik_4.csprojAssemblyReference.cache
+C:\Users\Alla\source\repos\Otik_4\Otik_4\obj\Debug\netcoreapp3.1\Interop.Accessibility.dll
+C:\Users\Alla\source\repos\Otik_4\Otik_4\obj\Debug\netcoreapp3.1\Otik_4.csproj.ResolveComReference.cache
+C:\Users\Alla\source\repos\Otik_4\Otik_4\obj\Debug\netcoreapp3.1\Otik_4.AssemblyInfoInputs.cache
+C:\Users\Alla\source\repos\Otik_4\Otik_4\obj\Debug\netcoreapp3.1\Otik_4.AssemblyInfo.cs
+C:\Users\Alla\source\repos\Otik_4\Otik_4\obj\Debug\netcoreapp3.1\Otik_4.csproj.CoreCompileInputs.cache
+C:\Users\Alla\source\repos\Otik_4\Otik_4\obj\Debug\netcoreapp3.1\Otik_4.dll
+C:\Users\Alla\source\repos\Otik_4\Otik_4\obj\Debug\netcoreapp3.1\Otik_4.pdb
+C:\Users\Alla\source\repos\Otik_4\Otik_4\obj\Debug\netcoreapp3.1\Otik_4.genruntimeconfig.cache

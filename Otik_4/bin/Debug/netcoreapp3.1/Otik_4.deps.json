@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Otik_4/1.0.0": {
+        "dependencies": {
+          "Interop.Accessibility": "1.1.0.0"
+        },
+        "runtime": {
+          "Otik_4.dll": {}
+        }
+      },
+      "Interop.Accessibility/1.1.0.0": {
+        "runtime": {
+          "Interop.Accessibility.dll": {
+            "assemblyVersion": "1.1.0.0",
+            "fileVersion": "1.1.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Otik_4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Interop.Accessibility/1.1.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
